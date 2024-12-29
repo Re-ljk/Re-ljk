@@ -52,9 +52,6 @@
     <p style="font-size: 20px; color: #ffffff; text-align: right; margin: 15px 0 0; text-shadow: 1px 1px 6px rgba(0, 0, 0, 0.3);">
       - Alan Kay
     </p>
-  </div>
-</div>
-
 
 
 <!-- 联系方式 -->
