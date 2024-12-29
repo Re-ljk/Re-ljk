@@ -44,10 +44,13 @@
 
 <!-- 个人座右铭 -->
 <h2 align="center">💡 Quote I Live By</h2>
-<div align="center">
-  <div style="background: linear-gradient(to right, #ff7e5f, #feb47b); padding: 15px; border-radius: 10px; width: 80%;">
-    <p style="font-size: 24px; font-style: italic; color: #fff; text-align: center; margin: 0;">
-      "The best way to predict the future is to invent it." - Alan Kay
+<div align="center" style="display: flex; justify-content: center;">
+  <div style="background: linear-gradient(to right, #6a11cb, #2575fc); padding: 20px; border-radius: 15px; max-width: 800px; width: 100%; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
+    <p style="font-size: 28px; font-style: italic; color: #ffffff; text-align: center; margin: 0;">
+      "The best way to predict the future is to invent it."
+    </p>
+    <p style="font-size: 18px; color: #d1d5db; text-align: right; margin: 10px 0 0;">
+      - Alan Kay
     </p>
   </div>
 </div>
