@@ -42,30 +42,6 @@
 </div>
 
 
-<!-- 个人座右铭 -->
-<h2 align="center">💡 Quote I Live By</h2>
-<div align="center" style="display: flex; justify-content: center;">
-  <div style="background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(148,187,233,1) 100%); padding: 30px; border-radius: 20px; max-width: 850px; width: 100%; box-shadow: 0 8px 15px rgba(0, 0, 0, 0.2); border: 1px solid rgba(255, 255, 255, 0.3);">
-    <p style="font-size: 32px; font-style: italic; color: #ffffff; text-align: center; margin: 0; text-shadow: 1px 1px 6px rgba(0, 0, 0, 0.3);">
-      "The best way to predict the future is to invent it."
-    </p>
-    <p style="font-size: 20px; color: #ffffff; text-align: right; margin: 15px 0 0; text-shadow: 1px 1px 6px rgba(0, 0, 0, 0.3);">
-      - Alan Kay
-    </p>
-
-
-<!-- 联系方式 -->
-<h2 align="center">📞 Get in Touch</h2>
-<p align="center">
-  <a href="https://github.com/Re-ljk"><img src="https://img.shields.io/badge/GitHub-Re--ljk-blue?logo=github&style=for-the-badge" /></a>
-  <a href="https://re-ljk.blog.csdn.net"><img src="https://img.shields.io/badge/CSDN-李江宽-red?logo=csdn&style=for-the-badge" /></a>
-  <a href="https://space.bilibili.com/498105668"><img src="https://img.shields.io/badge/BiliBili-李江宽-pink?logo=bilibili&style=for-the-badge" /></a>
-  <a href="https://twitter.com/"><img src="https://img.shields.io/badge/Twitter-@jiangkuanli-blue?logo=twitter&style=for-the-badge" /></a>
-  <a href="https://www.linkedin.com/in/jiangkuanli/"><img src="https://img.shields.io/badge/LinkedIn-Jiangkuan%20Li-blue?logo=linkedin&style=for-the-badge" /></a>
-</p>
-
-
-
 <!-- 底部动态波浪 -->
 <p align="center">
     <!-- https://github.com/kyechan99/capsule-render -->
