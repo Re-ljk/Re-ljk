@@ -8,7 +8,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=🚀+AI+Researcher+%7C+Tech+Enthusiast;💻+Passionate+about+Machine+Learning+and+Cybersecurity;🌟+Building+Innovative+and+Intelligent+Systems;🎉+Welcome+to+my+GitHub+Profile!" />
 </p>
 
----
+
 
 <!-- 关于我 -->
 <h2 align="center">📌 About Me</h2>
@@ -23,7 +23,6 @@
   📫 Reach me via <b><a href="mailto:jiangkuanli@example.com">Email</a></b> or connect on <b><a href="https://www.linkedin.com/in/jiangkuanli/">LinkedIn</a></b>.
 </p>
 
----
 
 <!-- 技术技能 -->
 <h2 align="center">⚡ Skills & Tools</h2>
@@ -31,7 +30,6 @@
   <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,cpp,java,html,css,js,ts,git,vscode,linux,docker,kubernetes&theme=light" />
 </p>
 
----
 
 <!-- 动态统计信息 -->
 <h2 align="center">📊 My GitHub Stats</h2>
@@ -43,18 +41,17 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Re-ljk&theme=react-dark&bg_color=ffffff&hide_border=true&area=true" width="90%"/>
 </div>
 
----
 
 <!-- 个人座右铭 -->
 <h2 align="center">💡 Quote I Live By</h2>
-<div align="center" style="display: flex; justify-content: center; align-items: center;">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" style="width: 90%;" />
+<div align="center">
+  <div style="background: linear-gradient(to right, #ff7e5f, #feb47b); padding: 15px; border-radius: 10px; width: 80%;">
+    <p style="font-size: 24px; font-style: italic; color: #fff; text-align: center; margin: 0;">
+      "The best way to predict the future is to invent it." - Alan Kay
+    </p>
+  </div>
 </div>
-<p align="center" style="font-size: 20px; font-style: italic; color: #555; margin-top: 10px;">
-  "The best way to predict the future is to invent it." - Alan Kay
-</p>
 
----
 
 <!-- 联系方式 -->
 <h2 align="center">📞 Get in Touch</h2>
@@ -66,7 +63,7 @@
   <a href="https://www.linkedin.com/in/jiangkuanli/"><img src="https://img.shields.io/badge/LinkedIn-Jiangkuan%20Li-blue?logo=linkedin&style=for-the-badge" /></a>
 </p>
 
----
+
 
 <!-- 底部动态波浪 -->
 <p align="center">
