@@ -5,9 +5,8 @@
 
 <!-- 闪烁动态欢迎标语 -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=🚀+AI+Researcher+%7C+Tech+Enthusiast;💻+Passionate+about+Machine+Learning+and+Cybersecurity;🌟+Building+Innovative+and+Intelligent+Systems;🎉+Welcome+to+my+GitHub+Profile!" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=800&color=F78C6C&center=true&vCenter=true&width=1000&lines=🚀+AI+Researcher+%7C+Tech+Enthusiast;💻+Passionate+about+Generative+AI,+Cybersecurity+%26+Computer+Vision;🌟+Committed+to+Innovative+and+Intelligent+Solutions;🎉+Welcome+to+My+GitHub+Profile!" />
 </p>
-
 
 
 <!-- 关于我 -->
