@@ -47,10 +47,10 @@
 
 <!-- 个人座右铭 -->
 <h2 align="center">💡 Quote I Live By</h2>
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark" />
-</p>
-<p align="center" style="font-size: 18px; color: #555;">
+<div align="center" style="display: flex; justify-content: center; align-items: center;">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" style="width: 90%;" />
+</div>
+<p align="center" style="font-size: 20px; font-style: italic; color: #555; margin-top: 10px;">
   "The best way to predict the future is to invent it." - Alan Kay
 </p>
 
@@ -70,5 +70,6 @@
 
 <!-- 底部动态波浪 -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=footer&text=Thanks%20for%20Visiting!&fontSize=24&fontAlign=50&fontAlignY=30&animation=fadeIn" />
+    <!-- https://github.com/kyechan99/capsule-render -->
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=footer&text=THE%20END&fontSize=90&fontAlign=50&fontAlignY=70&desc=Hope%20your%20program%20is%20bug-free&descAlign=50&descSize=30&descAlignY=40&animation=twinkling" alt="The End" title="The End"/>
 </p>
