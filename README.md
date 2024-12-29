@@ -13,9 +13,13 @@
 <!-- 关于我 -->
 <h2 align="center">📌 About Me</h2>
 <div align="center">
-  <img src="https://img.shields.io/badge/AI%20Researcher-blue?style=for-the-badge&logo=ai" />
-  <img src="https://img.shields.io/badge/Tech%20Enthusiast-green?style=for-the-badge&logo=google" />
+  <img src="https://img.shields.io/badge/AI%20Researcher-blue?style=for-the-badge&logo=ai" alt="AI Researcher" />
+  <img src="https://img.shields.io/badge/Tech%20Enthusiast-green?style=for-the-badge&logo=google" alt="Tech Enthusiast" />
+  <img src="https://img.shields.io/badge/Cybersecurity%20Explorer-red?style=for-the-badge&logo=hackthebox" alt="Cybersecurity Explorer" />
+  <img src="https://img.shields.io/badge/Generative%20AI%20Developer-purple?style=for-the-badge&logo=openai" alt="Generative AI Developer" />
+  <img src="https://img.shields.io/badge/Computer%20Vision%20Researcher-orange?style=for-the-badge&logo=opencv" alt="Computer Vision Researcher" />
 </div>
+
 <p align="center">
   🌱 I’m currently pursuing a degree in <b>Artificial Intelligence</b> at <b>Yangzhou University</b>. <br />
   🔜 Soon graduating with an AI degree from <b>Yangzhou University</b>, and pursuing postgraduate studies at <b>University of Electronic Science and Technology of China (UESTC)</b>. <br />
@@ -23,6 +27,7 @@
   🌍 I love contributing to open-source projects and solving real-world problems. <br />
   📫 Reach me via <b><a href="mailto:Jiangkuanli@163.com">Email</a></b> or visit my blog at <b><a href="https://www.leejk-magic.top/">My Blog</a></b>.
 </p>
+
 
 
 <!-- 技术技能 -->
