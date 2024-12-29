@@ -5,7 +5,7 @@
 
 <!-- 闪烁动态欢迎标语 -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=800&color=F78C6C&center=true&vCenter=true&width=1000&lines=🚀+AI+Researcher+%7C+Tech+Enthusiast;💻+Passionate+about+Generative+AI,+Cybersecurity+%26+Computer+Vision;🌟+Committed+to+Innovative+and+Intelligent+Solutions;🎉+Welcome+to+My+GitHub+Profile!" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=800&color=F78C6C&center=true&vCenter=true&width=1000&lines=🚀+AI+Researcher+%7C+Tech+Enthusiast;💻+Passionate+about+AIGC,+Cybersecurity+%26+CV;🌟+Committed+to+Innovative+and+Intelligent+Solutions;🎉+Welcome+to+My+GitHub+Profile!" />
 </p>
 
 
