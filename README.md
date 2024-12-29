@@ -1,20 +1,3 @@
-## Hi there 👋
-
-<!--
-**Re-ljk/Re-ljk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 <!-- 顶部动态波浪 -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hi,%20I'm%20Jiangkuan%20Li!&fontSize=65&fontAlign=50&fontAlignY=30&desc=Welcome%20to%20my%20GitHub&descSize=25&descAlign=50&descAlignY=50&animation=fadeIn" />
@@ -47,9 +30,6 @@ Here are some ideas to get you started:
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,cpp,java,html,css,js,ts,git,vscode,linux,docker,kubernetes&theme=light" />
 </p>
-<p align="center">
-  <img src="https://github-readme-tech-stack.vercel.app/api/cards?showBorder=false&lineCount=3&theme=github_dark&line1=Python,Python,3776AB;TensorFlow,TensorFlow,FF6F00;PyTorch,PyTorch,EE4C2C;&line2=Docker,Docker,2496ED;Kubernetes,Kubernetes,326CE5;Linux,Linux,FCC624;&line3=Git,Git,F05032;VSCode,VSCode,007ACC;Bash,Bash,4EAA25;" />
-</p>
 
 ---
 
@@ -68,9 +48,9 @@ Here are some ideas to get you started:
 <!-- 个人座右铭 -->
 <h2 align="center">💡 Quote I Live By</h2>
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark" />
 </p>
-<p align="center">
+<p align="center" style="font-size: 18px; color: #555;">
   "The best way to predict the future is to invent it." - Alan Kay
 </p>
 
@@ -82,15 +62,8 @@ Here are some ideas to get you started:
   <a href="https://github.com/Re-ljk"><img src="https://img.shields.io/badge/GitHub-Re--ljk-blue?logo=github&style=for-the-badge" /></a>
   <a href="https://re-ljk.blog.csdn.net"><img src="https://img.shields.io/badge/CSDN-李江宽-red?logo=csdn&style=for-the-badge" /></a>
   <a href="https://space.bilibili.com/498105668"><img src="https://img.shields.io/badge/BiliBili-李江宽-pink?logo=bilibili&style=for-the-badge" /></a>
-  <img src="https://img.shields.io/badge/QQ-2951256653-green?logo=tencentqq&style=for-the-badge" />
-</p>
-<p align="center">
   <a href="https://twitter.com/"><img src="https://img.shields.io/badge/Twitter-@jiangkuanli-blue?logo=twitter&style=for-the-badge" /></a>
-  <a href="https://www.instagram.com/"><img src="https://img.shields.io/badge/Instagram-@jiangkuanli-purple?logo=instagram&style=for-the-badge" /></a>
   <a href="https://www.linkedin.com/in/jiangkuanli/"><img src="https://img.shields.io/badge/LinkedIn-Jiangkuan%20Li-blue?logo=linkedin&style=for-the-badge" /></a>
-</p>
-<p align="center">
-  <a href="https://t.me/jiangkuanli"><img src="https://img.shields.io/badge/Telegram-@jiangkuanli-blue?logo=telegram&style=for-the-badge" /></a>
 </p>
 
 ---
