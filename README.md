@@ -24,7 +24,7 @@
   🔜 Soon graduating with an AI degree from <b>Yangzhou University</b>, and pursuing postgraduate studies at <b>University of Electronic Science and Technology of China (UESTC)</b>. <br />
   🔭 My research focuses on <b>Generative AI, Cybersecurity, and Computer Vision</b>. <br />
   🌍 I love contributing to open-source projects and solving real-world problems. <br />
-  📫 Reach me via <b><a href="mailto:Jiangkuanli@163.com">Email</a></b> or visit my blog at <b><a href="https://www.leejk-magic.top/">My Blog</a></b>.
+  📫 Reach me via <b><a href="mailto:Jiangkuanli@163.com">Email</a></b> or visit my blog at <b><a href="https://www.leejk-magic.top">My Blog</a></b>.
 </p>
 
 
