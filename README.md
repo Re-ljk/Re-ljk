@@ -3,21 +3,17 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hi,%20I'm%20Jiangkuan%20Li!&fontSize=65&fontAlign=50&fontAlignY=30&desc=Welcome%20to%20my%20GitHub&descSize=25&descAlign=50&descAlignY=50&animation=fadeIn" />
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/-Welcome!-F78C6C?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/🎉%20Welcome%20to%20my%20GitHub%20Profile!%20🎉-F78C6C?style=for-the-badge" />
 </p>
 
-<h2 align="center" style="color: #F78C6C;">🚀 AI Researcher & Tech Enthusiast</h2>
+<h2 align="center">🚀 AI Researcher & Tech Enthusiast</h2>
 
 <p align="center">
-  <strong>💻 Passionate about <span style="color:#FF5370;">AIGC</span>, <span style="color:#C3E88D;">Cybersecurity</span> & <span style="color:#82AAFF;">Computer Vision</span></strong>
-</p>
-
-<p align="center">
-  <em>🌟 Committed to <strong>Innovative</strong> and <strong>Intelligent</strong> Solutions</em>
+  💻 <strong>Passionate about</strong> <code>AIGC</code> · <code>Cybersecurity</code> · <code>Computer Vision</code>
 </p>
 
 <p align="center">
-  🎉 <strong>Welcome to my GitHub Profile!</strong> 🎉
+  🌟 <em>Committed to</em> <strong>Innovative</strong> <em>and</em> <strong>Intelligent</strong> Solutions
 </p>
 
 
