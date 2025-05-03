@@ -4,29 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
-</p>
-
-<h3 align="center">
-  <span>
-    <strong>
-      <code>
-        <span style="font-size: 20px;">
-          🚀 AI Researcher | Tech Enthusiast
-        </span>
-      </code>
-    </strong>
-  </span>
-</h3>
-
-<p align="center">
-  <b>
-    <i>
-      💻 Passionate about AIGC, Cybersecurity & CV <br>
-      🌟 Committed to Innovative and Intelligent Solutions <br>
-      🎉 Welcome to My GitHub Profile!
-    </i>
-  </b>
+  <img src="https://user-images.githubusercontent.com/6873202/235302429-1234b8c1-c6f7-4e58-8b2e-2b62b60eaa2b.gif" alt="Typing welcome banner" />
 </p>
 
 
