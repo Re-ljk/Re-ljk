@@ -2,10 +2,24 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hi,%20I'm%20Jiangkuan%20Li!&fontSize=65&fontAlign=50&fontAlignY=30&desc=Welcome%20to%20my%20GitHub&descSize=25&descAlign=50&descAlignY=50&animation=fadeIn" />
 </p>
-<h3 align="center">🚀 AI Researcher | Tech Enthusiast</h3>
-<h3 align="center">💻 Passionate about AIGC, Cybersecurity & CV</h3>
-<h3 align="center">🌟 Committed to Innovative and Intelligent Solutions</h3>
-<h3 align="center">🎉 Welcome to My GitHub Profile!</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/-Welcome!-F78C6C?style=for-the-badge&logo=github&logoColor=white" />
+</p>
+
+<h2 align="center" style="color: #F78C6C;">🚀 AI Researcher & Tech Enthusiast</h2>
+
+<p align="center">
+  <strong>💻 Passionate about <span style="color:#FF5370;">AIGC</span>, <span style="color:#C3E88D;">Cybersecurity</span> & <span style="color:#82AAFF;">Computer Vision</span></strong>
+</p>
+
+<p align="center">
+  <em>🌟 Committed to <strong>Innovative</strong> and <strong>Intelligent</strong> Solutions</em>
+</p>
+
+<p align="center">
+  🎉 <strong>Welcome to my GitHub Profile!</strong> 🎉
+</p>
+
 
 <!-- 关于我 -->
 <h2 align="center">📌 About Me</h2>
