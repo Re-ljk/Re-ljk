@@ -6,8 +6,7 @@
 <!-- 闪烁动态欢迎标语 -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=800&color=F78C6C&center=true&vCenter=true&width=1000&lines=🚀+AI+Researcher+%7C+Tech+Enthusiast;💻+Passionate+about+AIGC,+Cybersecurity+%26+CV;🌟+Committed+to+Innovative+and+Intelligent+Solutions;🎉+Welcome+to+My+GitHub+Profile!" />
-</p> 加载不出来
-
+</p> 
 <!-- 关于我 -->
 <h2 align="center">📌 About Me</h2>
 <div align="center">
