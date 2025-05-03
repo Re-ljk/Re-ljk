@@ -3,10 +3,32 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hi,%20I'm%20Jiangkuan%20Li!&fontSize=65&fontAlign=50&fontAlignY=30&desc=Welcome%20to%20my%20GitHub&descSize=25&descAlign=50&descAlignY=50&animation=fadeIn" />
 </p>
 
-<!-- 闪烁动态欢迎标语 -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=800&color=F78C6C&center=true&vCenter=true&width=1000&lines=🚀+AI+Researcher+%7C+Tech+Enthusiast;💻+Passionate+about+AIGC,+Cybersecurity+%26+CV;🌟+Committed+to+Innovative+and+Intelligent+Solutions;🎉+Welcome+to+My+GitHub+Profile!" />
+  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 </p>
+
+<h3 align="center">
+  <span>
+    <strong>
+      <code>
+        <span style="font-size: 20px;">
+          🚀 AI Researcher | Tech Enthusiast
+        </span>
+      </code>
+    </strong>
+  </span>
+</h3>
+
+<p align="center">
+  <b>
+    <i>
+      💻 Passionate about AIGC, Cybersecurity & CV <br>
+      🌟 Committed to Innovative and Intelligent Solutions <br>
+      🎉 Welcome to My GitHub Profile!
+    </i>
+  </b>
+</p>
+
 
 
 <!-- 关于我 -->
