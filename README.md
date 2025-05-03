@@ -3,11 +3,10 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hi,%20I'm%20Jiangkuan%20Li!&fontSize=65&fontAlign=50&fontAlignY=30&desc=Welcome%20to%20my%20GitHub&descSize=25&descAlign=50&descAlignY=50&animation=fadeIn" />
 </p>
 
+<!-- 闪烁动态欢迎标语 -->
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/6873202/235302429-1234b8c1-c6f7-4e58-8b2e-2b62b60eaa2b.gif" alt="Typing welcome banner" />
-</p>
-
-
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=800&color=F78C6C&center=true&vCenter=true&width=1000&lines=🚀+AI+Researcher+%7C+Tech+Enthusiast;💻+Passionate+about+AIGC,+Cybersecurity+%26+CV;🌟+Committed+to+Innovative+and+Intelligent+Solutions;🎉+Welcome+to+My+GitHub+Profile!" />
+</p> 加载不出来
 
 <!-- 关于我 -->
 <h2 align="center">📌 About Me</h2>
