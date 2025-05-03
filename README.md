@@ -2,11 +2,11 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hi,%20I'm%20Jiangkuan%20Li!&fontSize=65&fontAlign=50&fontAlignY=30&desc=Welcome%20to%20my%20GitHub&descSize=25&descAlign=50&descAlignY=50&animation=fadeIn" />
 </p>
+<h3 align="center">🚀 AI Researcher | Tech Enthusiast</h3>
+<h3 align="center">💻 Passionate about AIGC, Cybersecurity & CV</h3>
+<h3 align="center">🌟 Committed to Innovative and Intelligent Solutions</h3>
+<h3 align="center">🎉 Welcome to My GitHub Profile!</h3>
 
-<!-- 闪烁动态欢迎标语 -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=800&color=F78C6C&center=true&vCenter=true&width=1000&lines=🚀+AI+Researcher+%7C+Tech+Enthusiast;💻+Passionate+about+AIGC,+Cybersecurity+%26+CV;🌟+Committed+to+Innovative+and+Intelligent+Solutions;🎉+Welcome+to+My+GitHub+Profile!" />
-</p> 
 <!-- 关于我 -->
 <h2 align="center">📌 About Me</h2>
 <div align="center">
