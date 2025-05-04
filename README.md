@@ -2,9 +2,6 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hi,%20I'm%20Jiangkuan%20Li!&fontSize=65&fontAlign=50&fontAlignY=30&desc=Welcome%20to%20my%20GitHub&descSize=25&descAlign=50&descAlignY=50&animation=fadeIn" />
 </p>
-<p align="center">
-  <img src="https://img.shields.io/badge/🎉%20Welcome%20to%20my%20GitHub%20Profile!%20🎉-F78C6C?style=for-the-badge" />
-</p>
 
 <h2 align="center">🚀 AI Researcher & Tech Enthusiast</h2>
 
