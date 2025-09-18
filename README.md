@@ -41,17 +41,6 @@
 </p>
 
 
-<!-- 动态统计信息 -->
-<h2 align="center">📊 My GitHub Stats</h2>
-<div align="center">
-  <img height="170px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Re-ljk&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" />
-  <img height="170px" src="https://streak-stats.demolab.com?user=Re-ljk&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
-</div>
-<div align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Re-ljk&theme=react-dark&hide_border=true&area=true" width="90%"/>
-</div>
-
-
 
 <!-- 底部动态波浪 --> 
 <p align="center"> <!-- https://github.com/kyechan99/capsule-render --> <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=footer&text=THE%20END&fontSize=90&fontAlign=50&fontAlignY=70&desc=Hope%20your%20program%20is%20bug-free&descAlign=50&descSize=30&descAlignY=40&animation=twinkling" alt="The End" title="The End"/> 
