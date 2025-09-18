@@ -41,15 +41,7 @@
 </p>
 
 
-<!-- 动态统计信息 -->
-<h2 align="center">📊 My GitHub Stats</h2>
-<div align="center">
-  <img height="170px" src="https://github-readme-stats.vercel.app/api?username=Re-ljk&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" />
-  <img height="170px" src="https://github-readme-streak-stats.herokuapp.com?user=Re-ljk&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
-</div>
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Re-ljk&theme=react-dark&bg_color=ffffff&hide_border=true&area=true" width="90%"/>
-</div>
+<!-- 动态统计信息 --> <h2 align="center">📊 My GitHub Stats</h2> <div align="center"> <img height="170px" src="https://github-readme-stats.vercel.app/api?username=Re-ljk&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" /> <img height="170px" src="https://github-readme-streak-stats.herokuapp.com?user=Re-ljk&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" /> </div> <div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Re-ljk&theme=react-dark&bg_color=ffffff&hide_border=true&area=true" width="90%"/> </div>
 
 
 <!-- 底部动态波浪 --> 
