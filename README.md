@@ -6,7 +6,7 @@
 <h2 align="center">🚀 AI Researcher & Tech Enthusiast</h2>
 
 <p align="center">
-  💻 <strong>Passionate about</strong> <code>Cross-Modal Retrieval</code> · <code>Transfer Learning</code> · <code>Person Re-Identification</code>· <code>Multimodal Large Models</code>
+  💻 <strong>Passionate about</strong>  <code>Transfer Learning</code> · <code>Person Re-Identification</code>· <code>Multimodal Large Models</code>
 </p>
 
 <p align="center">
@@ -27,7 +27,7 @@
 <p align="center">
   🌱 I obtained my <b>Bachelor’s degree in Artificial Intelligence</b> from <b>Yangzhou University</b>. <br />
   🎓 I am currently pursuing my postgraduate studies at the <b>University of Electronic Science and Technology of China (UESTC)</b>. <br />
-  🔭 My research focuses on <b>Cross-Modal Retrieval, Transfer Learning , Person Re-Identification and Multimodal Large Models</b>. <br />
+  🔭 My research focuses on <b>Transfer Learning , Person Re-Identification and Multimodal Large Models</b>. <br />
   🌍 I love contributing to open-source projects and solving real-world problems. <br />
   📫 Reach me via <b><a href="mailto:Jiangkuanli@163.com">Email</a></b> or visit my blog at <b><a href="https://www.leejk-magic.top">My Blog</a></b>.
 </p>
