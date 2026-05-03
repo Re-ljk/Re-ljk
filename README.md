@@ -19,6 +19,7 @@
 <div align="center">
   <img src="https://img.shields.io/badge/Transfer%20Learning-orange?style=for-the-badge&logo=python" alt="Transfer Learning" />
   <img src="https://img.shields.io/badge/Person%20Re--Identification-green?style=for-the-badge&logo=opencv" alt="Person Re-Identification" />
+  <img src="https://img.shields.io/badge/Continual%20Learning-yellow?style=for-the-badge&logo=github" alt="Continual Learning" />
   <img src="https://img.shields.io/badge/Multimodal%20Large%20Models-blueviolet?style=for-the-badge&logo=openai" alt="Multimodal Large Models" />
 </div>
 
